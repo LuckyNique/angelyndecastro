@@ -1,5 +1,4 @@
-angelyndecastro
- Hi, I'm Angelyn 👋 Aspiring IT Professional | Learning Web Development &amp; Databases
+Hi, I'm Angelyn 👋 Aspiring IT Professional | Learning Web Development &amp; Databases
 - HTML, CSS, JavaScript (beginner projects)
 - SQL (basic queries & database design)
 - Git & GitHub
